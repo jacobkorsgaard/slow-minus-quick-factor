@@ -116,13 +116,6 @@ Generated intermediate datasets and R table objects are written to
 computationally demanding, particularly the rolling adjustment-cost estimation
 and robustness analysis.
 
-## Verification
-
-The complete pipeline was successfully executed after restructuring. Results
-are consistent with the thesis conclusions, although individual estimates may
-differ slightly because of data vintages, package versions, and subsequent code
-cleanup.
-
 ## Citation
 
 Korsgaard, Jacob, and Axel Ulveman (2026). *Firm Frictions, Adjustment Dynamics,
